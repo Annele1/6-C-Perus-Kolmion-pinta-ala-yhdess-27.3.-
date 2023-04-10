@@ -1,0 +1,7 @@
+C:\Users\annel\source\repos\6. Kolmion pinta-ala (yhdessa 27.3.)\6. Kolmion pinta-ala (yhdessa 27.3.)\bin\Debug\_6.Kolmion_pinta_ala__yhdessa_27._3._.exe.config
+C:\Users\annel\source\repos\6. Kolmion pinta-ala (yhdessa 27.3.)\6. Kolmion pinta-ala (yhdessa 27.3.)\bin\Debug\_6.Kolmion_pinta_ala__yhdessa_27._3._.exe
+C:\Users\annel\source\repos\6. Kolmion pinta-ala (yhdessa 27.3.)\6. Kolmion pinta-ala (yhdessa 27.3.)\bin\Debug\_6.Kolmion_pinta_ala__yhdessa_27._3._.pdb
+C:\Users\annel\source\repos\6. Kolmion pinta-ala (yhdessa 27.3.)\6. Kolmion pinta-ala (yhdessa 27.3.)\obj\Debug\6. Kolmion pinta-ala (yhdessa 27.3.).csproj.AssemblyReference.cache
+C:\Users\annel\source\repos\6. Kolmion pinta-ala (yhdessa 27.3.)\6. Kolmion pinta-ala (yhdessa 27.3.)\obj\Debug\6. Kolmion pinta-ala (yhdessa 27.3.).csproj.CoreCompileInputs.cache
+C:\Users\annel\source\repos\6. Kolmion pinta-ala (yhdessa 27.3.)\6. Kolmion pinta-ala (yhdessa 27.3.)\obj\Debug\_6.Kolmion_pinta_ala__yhdessa_27._3._.exe
+C:\Users\annel\source\repos\6. Kolmion pinta-ala (yhdessa 27.3.)\6. Kolmion pinta-ala (yhdessa 27.3.)\obj\Debug\_6.Kolmion_pinta_ala__yhdessa_27._3._.pdb
